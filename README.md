@@ -24,3 +24,6 @@ https://pandas.pydata.org/
 https://matplotlib.org/
 
 https://numpy.org/
+
+
+The files included in this repo are the Jupyter Notebook format source code and the .py format. Also included is the Pima dataset file. 
