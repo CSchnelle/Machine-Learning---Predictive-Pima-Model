@@ -15,7 +15,7 @@ This project uses data from the National Institute of Diabetes and Digestive and
 To download the dataset:
 https://data.world/data-society/pima-indians-diabetes-database
 
-This code is written in Python using Jupyter Notebook with the following imported libraries: numpy, matplotlib, pandas, scikitlearn
+This code is written in Python using Jupyter Notebook with the following imported libraries: numpy, matplotlib, pandas, and scikitlearn.
 
 https://scikit-learn.org/stable/
 
