@@ -18,6 +18,9 @@ https://data.world/data-society/pima-indians-diabetes-database
 This code is written in Python using Jupyter Notebook with the following imported libraries: numpy, matplotlib, pandas, scikitlearn
 
 https://scikit-learn.org/stable/
+
 https://pandas.pydata.org/
+
 https://matplotlib.org/
+
 https://numpy.org/
