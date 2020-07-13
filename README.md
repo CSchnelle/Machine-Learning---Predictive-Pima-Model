@@ -6,7 +6,7 @@
 "Use the Machine Learning Workflow to process and transform Pima Indian Diabetes data to create prediction model. 
 This model must predict which people are likely to develop diabetes with 70% or greater accuracy."
 
-This project follows the Understanding Machine Learning W/Python lesson plan taught by Jerry Kurata. 
+This project follows the Understanding Machine Learning W/Python lesson plan by Jerry Kurata. 
 
 This code contains documentation describing the entire Machine Learning Workflow:
 Solution Statement - Preparing Data - Algorithm Selection - Training the Model - Testing the Model
